@@ -1,15 +1,9 @@
 ---
-layout: page
 title: "How code editors work"
 permalink: /editor-part-1/
 ---
 
 # 代码编辑器是如何工作的？（上）
-
-
-[toc]
-
----
 
 ## 什么是代码编辑器？
 

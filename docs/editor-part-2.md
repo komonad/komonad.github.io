@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "How code editors work?"
 permalink: /editor-part-2/
 ---
