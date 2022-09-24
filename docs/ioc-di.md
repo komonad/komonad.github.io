@@ -335,7 +335,7 @@ container.bind::<SomeService>()
 );
 ```
 
-不过还是要写很多内容，但现在的结构已经可以让我们通过过程宏来表达了：
+不过还是要写很多内容，但现在的结构已经可以让我们通过声明宏来表达了：
 
 ```rust
 macro_rules! bind_singleton {
