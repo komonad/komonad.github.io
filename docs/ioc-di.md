@@ -1,3 +1,8 @@
+---
+title: "IoC 与 DI —— 背景、Rust 实现与使用方式"
+permalink: /ioc-di/
+---
+
 # IoC 与 DI —— 背景、Rust 实现与使用方式
 
 ## 什么是 IoC？
